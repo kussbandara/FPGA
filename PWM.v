@@ -24,7 +24,7 @@ module PWM (clk,wen,rst,in,out);
 			end	
 		else	
 		if (wen==1'b1)
-		//
+		
 			PWMPulseWidthCount <= in;
 			//PWMPulseWidthCount
 		

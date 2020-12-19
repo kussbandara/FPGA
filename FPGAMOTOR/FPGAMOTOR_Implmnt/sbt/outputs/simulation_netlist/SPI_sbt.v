@@ -6,7 +6,7 @@
 
 // Build Date:         Sep 11 2017 17:30:03
 
-// File Generated:     Sep 16 2020 17:40:38
+// File Generated:     Sep 18 2020 18:21:15
 
 // Purpose:            Post-Route Verilog/VHDL netlist for timing simulation
 
@@ -9913,6 +9913,7 @@ module SPI (
             .LATCHINPUTVALUE(),
             .DIN1(),
             .OUTPUTCLK());
+    defparam ch6_A_ibuf_iopad.PULLUP=1'b1;
     IO_PAD ch6_A_ibuf_iopad (
             .OE(N__39352),
             .DIN(N__39351),
@@ -9933,6 +9934,7 @@ module SPI (
             .LATCHINPUTVALUE(),
             .DIN1(),
             .OUTPUTCLK());
+    defparam ch6_B_ibuf_iopad.PULLUP=1'b1;
     IO_PAD ch6_B_ibuf_iopad (
             .OE(N__39343),
             .DIN(N__39342),
@@ -9953,6 +9955,7 @@ module SPI (
             .LATCHINPUTVALUE(),
             .DIN1(),
             .OUTPUTCLK());
+    defparam ch5_B_ibuf_iopad.PULLUP=1'b1;
     IO_PAD ch5_B_ibuf_iopad (
             .OE(N__39334),
             .DIN(N__39333),
@@ -9973,6 +9976,7 @@ module SPI (
             .LATCHINPUTVALUE(),
             .DIN1(),
             .OUTPUTCLK());
+    defparam ch0_B_ibuf_iopad.PULLUP=1'b1;
     IO_PAD ch0_B_ibuf_iopad (
             .OE(N__39325),
             .DIN(N__39324),
@@ -10074,6 +10078,7 @@ module SPI (
             .LATCHINPUTVALUE(),
             .DIN1(),
             .OUTPUTCLK());
+    defparam ch5_A_ibuf_iopad.PULLUP=1'b1;
     IO_PAD ch5_A_ibuf_iopad (
             .OE(N__39280),
             .DIN(N__39279),
@@ -10094,6 +10099,7 @@ module SPI (
             .LATCHINPUTVALUE(),
             .DIN1(),
             .OUTPUTCLK());
+    defparam ch2_B_ibuf_iopad.PULLUP=1'b1;
     IO_PAD ch2_B_ibuf_iopad (
             .OE(N__39271),
             .DIN(N__39270),
@@ -10114,6 +10120,7 @@ module SPI (
             .LATCHINPUTVALUE(),
             .DIN1(),
             .OUTPUTCLK());
+    defparam ch4_B_ibuf_iopad.PULLUP=1'b1;
     IO_PAD ch4_B_ibuf_iopad (
             .OE(N__39262),
             .DIN(N__39261),
@@ -10174,6 +10181,7 @@ module SPI (
             .LATCHINPUTVALUE(),
             .DIN1(),
             .OUTPUTCLK());
+    defparam ch4_A_ibuf_iopad.PULLUP=1'b1;
     IO_PAD ch4_A_ibuf_iopad (
             .OE(N__39235),
             .DIN(N__39234),
@@ -10194,6 +10202,7 @@ module SPI (
             .LATCHINPUTVALUE(),
             .DIN1(),
             .OUTPUTCLK());
+    defparam ch7_A_ibuf_iopad.PULLUP=1'b1;
     IO_PAD ch7_A_ibuf_iopad (
             .OE(N__39226),
             .DIN(N__39225),
@@ -10214,6 +10223,7 @@ module SPI (
             .LATCHINPUTVALUE(),
             .DIN1(),
             .OUTPUTCLK());
+    defparam ch3_B_ibuf_iopad.PULLUP=1'b1;
     IO_PAD ch3_B_ibuf_iopad (
             .OE(N__39217),
             .DIN(N__39216),
@@ -10274,6 +10284,7 @@ module SPI (
             .LATCHINPUTVALUE(),
             .DIN1(),
             .OUTPUTCLK());
+    defparam ch3_A_ibuf_iopad.PULLUP=1'b1;
     IO_PAD ch3_A_ibuf_iopad (
             .OE(N__39190),
             .DIN(N__39189),
@@ -10294,6 +10305,7 @@ module SPI (
             .LATCHINPUTVALUE(),
             .DIN1(),
             .OUTPUTCLK());
+    defparam ch1_B_ibuf_iopad.PULLUP=1'b1;
     IO_PAD ch1_B_ibuf_iopad (
             .OE(N__39181),
             .DIN(N__39180),
@@ -10354,6 +10366,7 @@ module SPI (
             .LATCHINPUTVALUE(),
             .DIN1(),
             .OUTPUTCLK());
+    defparam ch7_B_ibuf_iopad.PULLUP=1'b1;
     IO_PAD ch7_B_ibuf_iopad (
             .OE(N__39154),
             .DIN(N__39153),
@@ -10374,6 +10387,7 @@ module SPI (
             .LATCHINPUTVALUE(),
             .DIN1(),
             .OUTPUTCLK());
+    defparam ch0_A_ibuf_iopad.PULLUP=1'b1;
     IO_PAD ch0_A_ibuf_iopad (
             .OE(N__39145),
             .DIN(N__39144),
@@ -10434,6 +10448,7 @@ module SPI (
             .LATCHINPUTVALUE(),
             .DIN1(),
             .OUTPUTCLK());
+    defparam ch1_A_ibuf_iopad.PULLUP=1'b1;
     IO_PAD ch1_A_ibuf_iopad (
             .OE(N__39118),
             .DIN(N__39117),
@@ -10454,6 +10469,7 @@ module SPI (
             .LATCHINPUTVALUE(),
             .DIN1(),
             .OUTPUTCLK());
+    defparam ch2_A_ibuf_iopad.PULLUP=1'b1;
     IO_PAD ch2_A_ibuf_iopad (
             .OE(N__39109),
             .DIN(N__39108),

@@ -6,7 +6,7 @@
 
 -- Build Date:         Sep 11 2017 17:29:57
 
--- File Generated:     Sep 16 2020 17:40:39
+-- File Generated:     Sep 18 2020 18:21:16
 
 -- Purpose:            Post-Route Verilog/VHDL netlist for timing simulation
 
@@ -9986,8 +9986,8 @@ begin
 
     \ch6_A_ibuf_iopad\ : IO_PAD
     generic map (
-            IO_STANDARD => "SB_LVCMOS",
-            PULLUP => '0'
+            PULLUP => '1',
+            IO_STANDARD => "SB_LVCMOS"
         )
     port map (
             OE => \N__39352\,
@@ -10018,8 +10018,8 @@ begin
 
     \ch6_B_ibuf_iopad\ : IO_PAD
     generic map (
-            IO_STANDARD => "SB_LVCMOS",
-            PULLUP => '0'
+            PULLUP => '1',
+            IO_STANDARD => "SB_LVCMOS"
         )
     port map (
             OE => \N__39343\,
@@ -10050,8 +10050,8 @@ begin
 
     \ch5_B_ibuf_iopad\ : IO_PAD
     generic map (
-            IO_STANDARD => "SB_LVCMOS",
-            PULLUP => '0'
+            PULLUP => '1',
+            IO_STANDARD => "SB_LVCMOS"
         )
     port map (
             OE => \N__39334\,
@@ -10082,8 +10082,8 @@ begin
 
     \ch0_B_ibuf_iopad\ : IO_PAD
     generic map (
-            IO_STANDARD => "SB_LVCMOS",
-            PULLUP => '0'
+            PULLUP => '1',
+            IO_STANDARD => "SB_LVCMOS"
         )
     port map (
             OE => \N__39325\,
@@ -10242,8 +10242,8 @@ begin
 
     \ch5_A_ibuf_iopad\ : IO_PAD
     generic map (
-            IO_STANDARD => "SB_LVCMOS",
-            PULLUP => '0'
+            PULLUP => '1',
+            IO_STANDARD => "SB_LVCMOS"
         )
     port map (
             OE => \N__39280\,
@@ -10274,8 +10274,8 @@ begin
 
     \ch2_B_ibuf_iopad\ : IO_PAD
     generic map (
-            IO_STANDARD => "SB_LVCMOS",
-            PULLUP => '0'
+            PULLUP => '1',
+            IO_STANDARD => "SB_LVCMOS"
         )
     port map (
             OE => \N__39271\,
@@ -10306,8 +10306,8 @@ begin
 
     \ch4_B_ibuf_iopad\ : IO_PAD
     generic map (
-            IO_STANDARD => "SB_LVCMOS",
-            PULLUP => '0'
+            PULLUP => '1',
+            IO_STANDARD => "SB_LVCMOS"
         )
     port map (
             OE => \N__39262\,
@@ -10402,8 +10402,8 @@ begin
 
     \ch4_A_ibuf_iopad\ : IO_PAD
     generic map (
-            IO_STANDARD => "SB_LVCMOS",
-            PULLUP => '0'
+            PULLUP => '1',
+            IO_STANDARD => "SB_LVCMOS"
         )
     port map (
             OE => \N__39235\,
@@ -10434,8 +10434,8 @@ begin
 
     \ch7_A_ibuf_iopad\ : IO_PAD
     generic map (
-            IO_STANDARD => "SB_LVCMOS",
-            PULLUP => '0'
+            PULLUP => '1',
+            IO_STANDARD => "SB_LVCMOS"
         )
     port map (
             OE => \N__39226\,
@@ -10466,8 +10466,8 @@ begin
 
     \ch3_B_ibuf_iopad\ : IO_PAD
     generic map (
-            IO_STANDARD => "SB_LVCMOS",
-            PULLUP => '0'
+            PULLUP => '1',
+            IO_STANDARD => "SB_LVCMOS"
         )
     port map (
             OE => \N__39217\,
@@ -10562,8 +10562,8 @@ begin
 
     \ch3_A_ibuf_iopad\ : IO_PAD
     generic map (
-            IO_STANDARD => "SB_LVCMOS",
-            PULLUP => '0'
+            PULLUP => '1',
+            IO_STANDARD => "SB_LVCMOS"
         )
     port map (
             OE => \N__39190\,
@@ -10594,8 +10594,8 @@ begin
 
     \ch1_B_ibuf_iopad\ : IO_PAD
     generic map (
-            IO_STANDARD => "SB_LVCMOS",
-            PULLUP => '0'
+            PULLUP => '1',
+            IO_STANDARD => "SB_LVCMOS"
         )
     port map (
             OE => \N__39181\,
@@ -10690,8 +10690,8 @@ begin
 
     \ch7_B_ibuf_iopad\ : IO_PAD
     generic map (
-            IO_STANDARD => "SB_LVCMOS",
-            PULLUP => '0'
+            PULLUP => '1',
+            IO_STANDARD => "SB_LVCMOS"
         )
     port map (
             OE => \N__39154\,
@@ -10722,8 +10722,8 @@ begin
 
     \ch0_A_ibuf_iopad\ : IO_PAD
     generic map (
-            IO_STANDARD => "SB_LVCMOS",
-            PULLUP => '0'
+            PULLUP => '1',
+            IO_STANDARD => "SB_LVCMOS"
         )
     port map (
             OE => \N__39145\,
@@ -10818,8 +10818,8 @@ begin
 
     \ch1_A_ibuf_iopad\ : IO_PAD
     generic map (
-            IO_STANDARD => "SB_LVCMOS",
-            PULLUP => '0'
+            PULLUP => '1',
+            IO_STANDARD => "SB_LVCMOS"
         )
     port map (
             OE => \N__39118\,
@@ -10850,8 +10850,8 @@ begin
 
     \ch2_A_ibuf_iopad\ : IO_PAD
     generic map (
-            IO_STANDARD => "SB_LVCMOS",
-            PULLUP => '0'
+            PULLUP => '1',
+            IO_STANDARD => "SB_LVCMOS"
         )
     port map (
             OE => \N__39109\,

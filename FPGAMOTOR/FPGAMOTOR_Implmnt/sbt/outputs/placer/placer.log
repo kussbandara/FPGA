@@ -6,7 +6,7 @@
 
 * Build Date:         Sep 11 2017 17:12:22
 
-* File Generated:     Sep 16 2020 17:38:54
+* File Generated:     Sep 18 2020 18:19:48
 
 * Purpose:            
 
@@ -116,16 +116,16 @@ Device Utilization Summary after Packing
     HFOSCs                      :	0/1
 
 
-I2088: Phase 3, elapsed time : 2.6 (sec)
+I2088: Phase 3, elapsed time : 2.3 (sec)
 
 Phase 4
 I2088: Phase 4, elapsed time : 0.3 (sec)
 
 Phase 5
-I2088: Phase 5, elapsed time : 8.5 (sec)
+I2088: Phase 5, elapsed time : 7.6 (sec)
 
 Phase 6
-I2088: Phase 6, elapsed time : 48.4 (sec)
+I2088: Phase 6, elapsed time : 41.5 (sec)
 
 Final Design Statistics
     Number of LUTs      	:	1064
@@ -189,5 +189,5 @@ Clock: SPI|CLK | Frequency: 63.78 MHz | Target: 88.81 MHz
 
 I2054: Placement of design completed successfully
 
-I2076: Placer run-time: 61.4 sec.
+I2076: Placer run-time: 53.1 sec.
 

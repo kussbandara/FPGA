@@ -1,7 +1,7 @@
 (DELAYFILE                 // Header Section
    (SDFVERSION "3.0")
    (DESIGN "SPI")
-   (DATE "Wed Sep 16 17:40:45 2020")
+   (DATE "Fri Sep 18 18:21:22 2020")
    (VENDOR "SiliconBlue Technologies Corporation")
    (DIVIDER /)
    (TIMESCALE 1ps)
