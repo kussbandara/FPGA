@@ -1,1 +1,0 @@
-@W: MT420 |Found inferred clock SPI|CLK with period 11.26ns. Please declare a user-defined clock on object "p:CLK"
